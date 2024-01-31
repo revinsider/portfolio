@@ -1,5 +1,5 @@
 # Portfolio
-Simon's Janik Portfolio Projects
+Simon Janik's Portfolio Projects
 
 ## Web Development
 - strefalifehouse.pl
