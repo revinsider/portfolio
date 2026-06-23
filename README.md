@@ -2,13 +2,12 @@
 Simon Janik's Portfolio Projects
 
 ## Web Development
-- netblogger.net
-- netbloger.pl
-- strefalifehouse.pl
 - kiczeraski.pl
 - lifehousepoznan.pl
 - lifehousekrakow.pl
 - https://super-sawine-f8e757.netlify.app
+- netbloger.pl
+- netblogger.net
 
 ## [HTML, CSS, JS Mini Projects](https://github.com/revinsider/portfolioMiniProjects)
 
